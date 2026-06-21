@@ -42,9 +42,9 @@ The project demonstrates DOM manipulation, event handling, and basic arithmetic 
 (screenshot.jpg)
 
 ---
+
 ## Prepared by
 Student's name (engineering): Islam Mohammed Kamel Al-Awar
 University ID: 2320226518
----
 
-## 📂 Project Structure
+---
